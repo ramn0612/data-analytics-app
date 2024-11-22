@@ -1,0 +1,5 @@
+flask==2.2.2
+pandas==1.5.3
+pytest==7.2.2
+matplotlib==3.7.1  # Optional, if you want to visualize data with plots
+Flask-Testing==0.8.1  # Optional, if you want specific Flask testing utilities
